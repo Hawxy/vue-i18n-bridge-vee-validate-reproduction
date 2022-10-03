@@ -1,0 +1,46 @@
+.DS_Store
+node_modules
+/dist
+
+# local env files
+.env.local
+.env.*.local
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor directories and files
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+[Bb]in/
+[Oo]bj/
+[Rr]elease/
+[Tt]ools/
+[Aa]rtifacts/
+.vs/
+.ionide/
+*.orig
+UpgradeLog.htm
+
+.tmp/
+.history/
+
+publish/
+/tools
+/artifacts
+/.ionide
+*/temp
+
+.vscode
+cypress.env.json
+cypress/videos
+cypress/screenshots
+
+
